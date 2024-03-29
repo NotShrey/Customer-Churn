@@ -15,8 +15,6 @@
   * Fit into Algorithm (ML Algorithm)
   * Hyper Parameter Tunning (RandomSearchCV)
   * Dump model (Pickle)
-  * Creating Web Application using Flask
-  * Deployed in Web using heroku platform
 #### Packages Used:
 This project requires **Python** and the following packages are in below:
   * [Numpy](https://numpy.org/)
@@ -27,8 +25,5 @@ This project requires **Python** and the following packages are in below:
   * [Scipy](https://www.scipy.org/)
   * [Imblearn](https://imbalanced-learn.org/stable/)
   * [Counter](https://docs.python.org/3/library/collections.html)
-  * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-#### How To Run:
-  In this project, First you need to download dataset [Telco-Customer-churn.csv](https://github.com/satz2000/End-to-end-project---Customer-churn/blob/main/Telco-Customer-Churn.csv) Then open your commant prompt and run this code [pip install jupyterlab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html). After [pip install requirements.txt](https://github.com/satz2000/End-to-end-project---Customer-churn/blob/main/requirements.txt) all packages are needed in this project are automatically installed on your machine. After Download [app.py](https://github.com/satz2000/End-to-end-project---Customer-churn/blob/main/app.py) files and run [TelecomCustomerChurn.ipynb](https://github.com/satz2000/End-to-end-project---Customer-churn/blob/main/TelecomCustomerChurn.ipynb) files  into your machine And some inputs to check our model and Its accuracy of prediction
 #### Objective:
   Predict the customer likely to be Churn or not by using Gradient Boost Classifier and my target is to find customer to be Churn or Not.
